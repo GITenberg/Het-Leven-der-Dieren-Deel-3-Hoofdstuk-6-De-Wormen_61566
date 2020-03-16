@@ -1,5 +1,8 @@
 _repo: Het-Leven-der-Dieren-Deel-3-Hoofdstuk-6-De-Wormen_61566
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61566-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Brehm, Alfred Edmund
@@ -12,6 +15,8 @@ creator:
     - https://nl.wikipedia.org/wiki/Alfred_Brehm
     - https://en.wikipedia.org/wiki/Alfred_Brehm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61566#Het-Leven-der-Dieren-Deel-3-Hoofdstuk-6-De-Wormen
 gutenberg_issued: '2020-03-05'
 gutenberg_type: Text
 identifiers:
